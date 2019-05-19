@@ -7,8 +7,6 @@ function martfury_child_enqueue_scripts() {
 	}
 }
 
-
-
 // Ayni Gun Kargo Png Ekleme
 // 1. Add new checkbox to product edit page (General tab)
   
@@ -46,10 +44,6 @@ function bbloomer_display_badge_if_checkbox() {
     }
 }
 
-
-
-
-
 // Ucretsiz Kargo Png Ekleme
 // 1. Add new checkbox to product edit page (General tab)
   
@@ -86,4 +80,3 @@ function bbloomer_display_badge_if_checkboxu() {
         echo '<img id="cargotwo" src="http://localhost/martfurydwn/wp-content/uploads/2018/11/ucretsiz-kargo_badge.png" />';
     }
 }
-
