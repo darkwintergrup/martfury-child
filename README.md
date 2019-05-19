@@ -1,2 +1,2 @@
 # martfury-child
-Martfury WordPress Theme Child Customization
+Martfury WordPress Theme Child Customization by DarkWinter GRUP
