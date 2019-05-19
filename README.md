@@ -13,3 +13,4 @@ You can of course rename the zip file so it isn't called martfury-child-theme-ma
 ### What changed
 - Added verifie icon for verified vendor on Product Page and Product Loop
 - Added some cargo images on Product Page
+- Added some CSS styles
