@@ -11,5 +11,5 @@ Simply download the zip and upload the zip (martfury-child-theme-master.zip) und
 You can of course rename the zip file so it isn't called martfury-child-theme-master.zip (you should do this so it makes more sense) and also change the "Theme Name" at the top of the style.css file.
 
 ### What changed
-- Added verifie icon for verified vendor on Product Page
+- Added verifie icon for verified vendor on Product Page and Product Loop Page
 - Added some cargo images on Product Page
