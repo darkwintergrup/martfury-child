@@ -2,6 +2,7 @@ Martfury Child Theme
 =================
 
 Martfury WordPress Theme Child Customization by DarkWinter GRUP
+[Theme Demo Page](https://drfuri.com/intro/martfury/)
 
 ### Usage
 Simply download the zip and upload the zip (martfury-child-theme-master.zip) under your WordPress dashboard at Appearance > Themes. Or extract and uplod via FTP at wp-content/themes/.
