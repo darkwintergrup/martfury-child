@@ -2,6 +2,7 @@ Martfury Child Theme
 =================
 
 Martfury WordPress Theme Child Customization by DarkWinter GRUP
+
 [Theme Demo Page](https://drfuri.com/intro/martfury/)
 
 ### Usage
